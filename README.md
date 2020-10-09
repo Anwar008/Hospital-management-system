@@ -40,7 +40,7 @@
 - Open Terminal and Execute Following Commands :
 ```
 pip install django==3.0.5
-pip install django-widget-tweaks
+pip install django-widget-tw
 pip install xhtml2pdf
 ```
 - Download This Project Zip Folder and Extract it
@@ -64,7 +64,7 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 - Login to gmail through host email id in your browser and open following link and turn it ON
 ```
-https://myaccount.google.com/lesssecureapps
+https://myaccount.google.com/anwarpatel
 ```
 ## Drawbacks/LoopHoles
 - Any one can be Admin. There is no Approval required for admin account. So you can disable admin signup process and use any logic like creating superuser.
@@ -76,5 +76,5 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+
+
